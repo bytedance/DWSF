@@ -1,2 +1,5 @@
-# DWSF
-code repository for Practical Deep Dispersed Watermarking with Synchronization
+# Practical Deep Dispersed Watermarking with Synchronization and Fusion
+This repository is the official implementation of Practical Deep Dispersed Watermarking with Synchronization and Fusion.
+
+
+Coming soon...
