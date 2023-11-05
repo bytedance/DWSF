@@ -1,0 +1,10 @@
+numpy==1.21.6
+tqdm==4.64.1
+kornia==0.6.8
+crc8==0.1.0
+opencv-python==4.6.0.66
+Pillow==9.1.1
+torch==1.10.0
+torchsummary==1.5.1
+torchvision==0.11.1+cu113
+
